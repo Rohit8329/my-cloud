@@ -1,2 +1,2 @@
 # my-cloud
-AWS CLI
+AWS-CLI
